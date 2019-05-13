@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfContract", "WcfContract\WcfContract.csproj", "{8F91EC9C-2DF7-45F6-AF8E-2A64B8C09B68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfHost", "WcfHost\WcfHost.csproj", "{5045334B-EDB2-4B96-BC0E-D2A7A684B781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfClient", "WcfClient\WcfClient.csproj", "{28A7B629-E351-47F7-B3CC-058981688B5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8F91EC9C-2DF7-45F6-AF8E-2A64B8C09B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F91EC9C-2DF7-45F6-AF8E-2A64B8C09B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F91EC9C-2DF7-45F6-AF8E-2A64B8C09B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5045334B-EDB2-4B96-BC0E-D2A7A684B781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5045334B-EDB2-4B96-BC0E-D2A7A684B781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5045334B-EDB2-4B96-BC0E-D2A7A684B781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5045334B-EDB2-4B96-BC0E-D2A7A684B781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A7B629-E351-47F7-B3CC-058981688B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A7B629-E351-47F7-B3CC-058981688B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A7B629-E351-47F7-B3CC-058981688B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A7B629-E351-47F7-B3CC-058981688B5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
